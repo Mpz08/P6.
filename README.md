@@ -1,1 +1,2 @@
-# P6.
+# Python 
+Using Python in different way
