@@ -1,1 +1,18 @@
+#1.	Greets the user
+print("Hellow and wellcom")
+#2.	Asks the user to enter a name
+print("What is your name")
+#3.	Saves the input name as a variable
+input()
+#4.	Removes whitespace to the left and right of the name, and saves it to a variable
+omg = ' who ko '
+print(omg.rstrip(" ").title())
+
+#5.	Prints the stripped name with first letters capitalized (title case)
+namel = "mihir"
+namec = "patel"
+name_l = f"{namel} {namec}"
+message = f"Hello, {name_l.title()}!"
+#8.	Prints the name as the user entered it
+print ("MIHIR")
 
